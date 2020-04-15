@@ -1,3 +1,5 @@
+/* this code doesn't contain any pthread files or function */ 
+ 
  #include<stdio.h>
 #include<stdlib.h>
 
