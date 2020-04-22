@@ -1,4 +1,5 @@
 /* this code doesn't contain any pthread files or function */ 
+/* you shoulkd add two pthreads and run it with that */
  
  #include<stdio.h>
 #include<stdlib.h>
